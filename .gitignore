@@ -13,3 +13,5 @@ Wiki_art_dataset
 Wiki_art_dataset/
 data_to_label
 data_to_label/
+
+*.zip
