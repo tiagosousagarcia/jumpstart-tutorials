@@ -1,0 +1,14 @@
+0 Abstract
+1 Animal
+2 Cityscape
+3 Figurative
+4 Flower
+5 Genre Painting
+6 Landscape
+7 Marina
+8 Mythological
+9 Nude
+10 Portrait
+11 Religious
+12 Still Life
+13 Symbolic
