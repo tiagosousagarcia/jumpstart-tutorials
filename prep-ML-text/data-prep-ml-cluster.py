@@ -1,6 +1,6 @@
 import pandas as pd
 
-DIR_NAME = "prep-ML-text/obs_full/"
+DIR_NAME = "prep-ML-text/obv_full/"
 
 df_full = pd.read_csv("prep-ML-text/obv_full.tsv", sep="\t")
 
