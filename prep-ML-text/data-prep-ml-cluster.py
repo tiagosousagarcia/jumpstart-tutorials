@@ -1,8 +1,8 @@
 import pandas as pd
 
-DIR_NAME = "prep-ML-text/obs_subset/"
+DIR_NAME = "prep-ML-text/obs_full/"
 
-df_full = pd.read_csv("prep-ML-text/subset_obv_words_v2_28-01-2017.tsv", sep="\t")
+df_full = pd.read_csv("prep-ML-text/obv_full.tsv", sep="\t")
 
 ids = df_full['obo_trial'].unique().tolist()
 
